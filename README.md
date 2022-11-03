@@ -8,8 +8,8 @@
 -> Built StopWord dict and AddWord dict <br>
 -> Original Text cut words into list (base on two dicts) <br>
 -> Keyword Extraction (base on tfidf or TextRank) <br>
--> Rule dictionary built (like {"Tag":[k1,k2,k3]}) <br>
--> Sentences import and Judge module apply <br>
+-> Rule dictionary built (like {"Tag":[k1,k2,k3]} currently by manual) <br>
+-> Sentences Text import and Judge module apply <br>
 
 ## Stage 2 on processing
 .N_gram method for high probability rule dictionary update <br>
