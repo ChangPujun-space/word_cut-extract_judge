@@ -6,7 +6,7 @@
 ## word_cut-extract_judge code method
 -> Data preprocessing <br>
 -> Built StopWord dict and AddWord dict <br>
--> Word cut into list (base on two dicts) <br>
+-> Original Text cut words into list (base on two dicts) <br>
 -> Keyword Extraction (base on tfidf or TextRank) <br>
 -> Rule dictionary built (like {"Tag":[k1,k2,k3]}) <br>
 -> Sentences import and Judge module apply <br>
