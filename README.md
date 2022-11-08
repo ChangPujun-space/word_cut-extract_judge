@@ -15,7 +15,7 @@
 .N_gram method for high probability rule dictionary update <br>
 .N_gram to N_follow judge fix match to dynamic match, aiming to provide a wider demand construction <br>
 
-## Future Plan and issue
+## Next Stage and issue
 .Low Recall on all terms especially on Covid term <br>
 .Futrue Plan: Add more realted terms to fill the gap, About short term trend. considering single words bags to detect. As for long term trend, considering realted words bags for detection. <br>
 
